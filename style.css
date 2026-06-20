@@ -69,7 +69,7 @@ footer {
 }
 
 section a {
-    color: #8B5CF6;
+    color: inherit;
     text-decoration: none;
 }
 
