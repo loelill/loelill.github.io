@@ -1,7 +1,7 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #ffffff;
-    color: #222222;
+    background-color: #f3f0ff;
+    color: #2d2d2d;
     margin: 0;
     padding: 0;
     line-height: 1.6;
@@ -10,6 +10,7 @@ body {
 header {
     text-align: center;
     padding: 60px 20px;
+    background-color: #ede9fe;
 }
 
 h1 {
